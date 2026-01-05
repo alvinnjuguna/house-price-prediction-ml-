@@ -1,4 +1,4 @@
-# house-price-prediction-ml-
+
 # House Price Prediction using Machine Learning
 
 This project demonstrates a simple machine learning approach
